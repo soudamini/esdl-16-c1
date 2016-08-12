@@ -6,5 +6,4 @@ void main()
 
 int add (int p,q)
 {
- return p+q;
 }
